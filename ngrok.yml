@@ -1,4 +1,0 @@
-tunnels:
-  herd-app:
-    addr: whereismymoney.test
-    host_header: whereismymoney.test

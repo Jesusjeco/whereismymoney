@@ -10,4 +10,11 @@ export default defineConfig({
         }),
         tailwindcss(),
     ],
+
+    server: {
+        host: 'whereismymoney.test',
+        hmr: {
+            host: 'whereismymoney.test',
+        },
+    },
 });
